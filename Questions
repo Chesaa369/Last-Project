@@ -1,3 +1,7 @@
-#Questions
-  1. Bagaimana cara memastikan informasi tentang perubahan iklim yang diberikan oleh bot akurat dan dapat dipercaya?
-  2. Bagaimana cara menyusun dan mengatur kode program bot agar lebih rapi dan mudah dikembangkan?
+  #Questions for Mentor
+1. Library Python apa saja yang dibutuhkan untuk mengembangkan Discord Bot yang terintegrasi dengan Weather API dan Google Gemini AI?
+2. Bagaimana cara menghubungkan Discord Bot dengan Weather API agar dapat mengambil informasi cuaca berdasarkan lokasi tujuan pengguna?
+3. Bagaimana cara mengintegrasikan Google Gemini AI agar dapat menghasilkan itinerary perjalanan yang sesuai dengan preferensi pengguna?
+4. Bagaimana cara menggabungkan data cuaca dari Weather API dengan rekomendasi perjalanan yang dihasilkan oleh Gemini AI?
+5. Bagaimana cara mengelola API key agar tetap aman dan tidak terekspos kepada pengguna lain?
+6. Apakah ada cara sederhana untuk membuat bot memberikan rekomendasi tempat wisata, aktivitas, dan jadwal perjalanan berdasarkan kondisi cuaca?
